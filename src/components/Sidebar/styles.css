@@ -1,0 +1,37 @@
+.bg-utama{
+    background-color: #ffffff;
+}
+
+.sideBar a{
+    text-decoration: none;
+}
+
+.contentArea{
+    background-color: #f0eded;
+}
+
+.admin{
+    color: black;
+}
+
+.admin p{
+    margin-left: 30px;
+    font-size:10px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: -36px;
+}
+
+.admin img{
+    margin-left: -20px;
+    margin-top: 10px;
+}
+
+.sideBar ul{
+    text-decoration: none;
+}
+
+i{
+    margin-right: 10px;
+    margin-top: 10px;
+}

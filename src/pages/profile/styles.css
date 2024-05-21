@@ -1,0 +1,38 @@
+.profile{
+    margin-left: 25px;
+    margin-top: 8px;
+    width: 980px;
+    height: 300px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0px 2px 1px rgb(128, 128, 128) ;
+    
+  }
+  
+  .title{
+    font-family: "poppins", sans-serif;
+    padding-top: 30px;
+    margin-left: 30px;
+    font-weight:bold;
+    
+  }
+
+.password {
+  margin-top: 20px;
+  margin-left: 120px;
+}
+
+.pass-lama{
+  margin-left: 10px;
+}
+
+.pass-baru{
+  margin-left: 10px;
+}
+  
+  
+.btn{
+ margin-top: 100px;
+ margin-left: -80px;
+  
+  }
